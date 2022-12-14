@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepak
-- 👀 I’m interested in Full-Stack Development and DevOps
+- 👀 I’m interested in Full-Stack Javascript Development and DevOps
 - 🌱 I’m currently learning Full Stack Development in Javascript
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me @ deepak.sankhyan92@outlook.com

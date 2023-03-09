@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Deepak
+- 💛 Loving the Vanilla JavaScript.
 - 👀 I’m interested in Full-Stack Javascript Development and DevOps
 - 🌱 I’m currently learning Full Stack Development in Javascript
 - 💞️ I’m looking to collaborate on great projects

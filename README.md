@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me @ deepaksankhyan92@outlook.com
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 
 <!---
 gitdeepaks/gitdeepaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
 - 💛 Loving the Vanilla JavaScript.
 - 💙 Started Learning TypeScript and NextJS with some GraphQL concepts now .
-- 👀 I’m interested in Full-Stack Javascript Development and DevOps
+- 👀 I’m interested in Full-Stack Javascript Development, Cloud and DevOps
 - 🌱 I’m currently learning Full Stack Development in Javascript
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me @ deepaksankhyan92@outlook.com

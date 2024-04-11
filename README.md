@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak
 - 💛 Loving the Vanilla JavaScript.
-- 💙 Started Learning TypeScript and NextJS with some GraphQL concepts now .
+- 💙 Started Learning TypeScript and NextJS .
 - 👀 I’m interested in Full-Stack Javascript Development, Cloud and DevOps
 - 🌱 I’m currently learning Full Stack Development in Javascript
 - 💞️ I’m looking to collaborate on great projects

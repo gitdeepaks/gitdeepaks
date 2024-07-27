@@ -34,6 +34,14 @@ I am always on the lookout to collaborate on innovative and impactful projects. 
 
 [![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitdeepaks&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📈 Additional Stats and Trophies
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdeepaks&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitdeepaks&theme=dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gitdeepaks&theme=darkhub)
+
 <!--
 **gitdeepaks/gitdeepaks** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

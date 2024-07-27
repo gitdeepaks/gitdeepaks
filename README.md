@@ -1,4 +1,4 @@
-[![Header](https://github.com/gitdeepaks/gitdeepaks/blob/master/banner.png?raw=true "Header")](https://github.com/gitdeepaks)
+[![Header](https://github.com/gitdeepaks/gitdeepaks/blob/main/banner.png?raw=true "Header")](https://github.com/gitdeepaks)
 
 ## 👋 Hello! I'm Deepak
 

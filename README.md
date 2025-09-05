@@ -40,12 +40,12 @@ I'm a passionate **Full-Stack AI Developer** with 9 years of experience deliveri
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **AI & Machine Learning**
+### **AI & JavaScript/TypeScript**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![AI APIs](https://img.shields.io/badge/AI_APIs-00D4AA?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### **Backend & DevOps**
 
@@ -103,13 +103,13 @@ _June 2015_
 
 ### 🤖 **Multi-LLM Cloud Intelligence Platform**
 
-- **Tech Stack:** React, Zustand, Multiple LLMs (GPT, Claude, Gemini), Python, TensorFlow
+- **Tech Stack:** React, TypeScript, Zustand, OpenAI API, Claude API, Gemini API
 - **Features:** AI-driven cloud instance analysis, real-time insights generation, intelligent automation
-- **Impact:** Enhanced cloud management efficiency through advanced AI algorithms and 60% faster decision making
+- **Impact:** Enhanced cloud management efficiency through AI APIs and 60% faster decision making
 
 ### 🧠 **Intelligent Mobile Application with AI Features**
 
-- **Tech Stack:** React Native (CLI & Expo), AI/ML APIs, Computer Vision, Natural Language Processing
+- **Tech Stack:** React Native (CLI & Expo), TypeScript, OpenAI API, Speech Recognition APIs
 - **Features:** AI-powered user interactions, smart recommendations, voice recognition, 40+ reusable components
 - **Impact:** 50% improvement in user engagement through intelligent features and personalized experiences
 
@@ -121,7 +121,7 @@ _June 2015_
 
 ### ⚡ **AI-Optimized Microservices Architecture**
 
-- **Tech Stack:** Node.js, Python, AI/ML models, Service Mesh, Intelligent Load Balancing
+- **Tech Stack:** Node.js, TypeScript, AI APIs, Service Mesh, Intelligent Load Balancing
 - **Features:** AI-powered auto-scaling, predictive analytics, intelligent error handling
 - **Impact:** 70% reduction in downtime through AI-driven predictive maintenance and optimization
 
@@ -132,18 +132,18 @@ _June 2015_
 
 ## 🎯 What Makes Me Stand Out
 
-### **AI & Machine Learning Excellence**
+### **AI & JavaScript/TypeScript Excellence**
 
-- **Multi-LLM Integration:** Pioneered fullstack AI applications using GPT, Claude, and Gemini for intelligent insights
-- **AI Product Development:** Built end-to-end AI products using JavaScript/TypeScript ecosystem
-- **Intelligent Automation:** Developed AI-powered systems that reduced manual work by 70%
-- **Predictive Analytics:** Implemented machine learning models for intelligent decision making
+- **Multi-LLM Integration:** Pioneered fullstack AI applications using GPT, Claude, and Gemini APIs with JavaScript/TypeScript
+- **AI Product Development:** Built end-to-end AI products using modern JS/TS ecosystem and AI APIs
+- **Intelligent Automation:** Developed AI-powered systems using Node.js and React that reduced manual work by 70%
+- **API-First AI:** Implemented intelligent solutions using AI APIs and JavaScript frameworks
 
 ### **Full-Stack AI Development**
 
-- **AI-Enhanced Frontend:** Created intelligent UIs with AI-powered user interactions and recommendations
-- **Smart Backend Services:** Built AI-optimized APIs with intelligent load balancing and auto-scaling
-- **Cross-Platform AI:** Native iOS/Android apps with AI features using React Native and ML APIs
+- **AI-Enhanced Frontend:** Created intelligent UIs with AI-powered user interactions using React and TypeScript
+- **Smart Backend Services:** Built AI-optimized APIs with Node.js, TypeScript, and AI API integrations
+- **Cross-Platform AI:** Native iOS/Android apps with AI features using React Native and AI APIs
 - **Component Intelligence:** 40+ AI-enhanced reusable components with smart theming and automation
 
 ### **Problem-Solving Approach**
@@ -156,19 +156,19 @@ _June 2015_
 ## 🌟 Why Choose Me?
 
 ✅ **9 Years AI Experience** - Proven track record in AI product development and team leadership
-✅ **Multi-LLM Expertise** - Pioneered fullstack AI applications with GPT, Claude, and Gemini integration
+✅ **Multi-LLM Expertise** - Pioneered fullstack AI applications with GPT, Claude, and Gemini APIs
 ✅ **JavaScript/TypeScript AI** - Specialized in building AI products using modern JS/TS ecosystem
-✅ **Intelligent Automation** - Built AI systems that reduced manual work by 70% and improved efficiency
+✅ **Intelligent Automation** - Built AI systems using Node.js and React that reduced manual work by 70%
 ✅ **AI-Enhanced Mobile** - React Native specialist with AI-powered features and intelligent interactions
-✅ **Predictive Analytics** - Implemented ML models for intelligent decision making and optimization
+✅ **API-First AI Development** - Implemented intelligent solutions using AI APIs and JavaScript frameworks
 ✅ **Tech Lead AI Vision** - Leading AI development teams at Cognizant Technology Solutions
-✅ **End-to-End AI Products** - Full-stack AI development from concept to deployment
+✅ **End-to-End AI Products** - Full-stack AI development from concept to deployment using JS/TS
 
 ## 📫 Let's Connect!
 
 I'm always excited to discuss new opportunities and innovative projects. Whether you're looking for a skilled developer to join your team or want to collaborate on something amazing, I'd love to hear from you!
 
-- **📧 Email:** [deepaksankhyan92@outlook.com](mailto:deepaksankhyan92@outlook.com)
+- **📧 Email:** [sankhyan.deepak1@gmail.com](mailto:sankhyan.deepak1@gmail.com)
 - **📍 Location:** Jaipur, India
 - **🌐 Portfolio:** [www.deepaksankhyan.com](http://www.deepaksankhyan.com)
 - **💼 LinkedIn:** [Connect with me](https://linkedin.com/in/deepak-sankhyan-359857)

@@ -1,0 +1,75 @@
+Deepak Sankhyan
+Full Stack Developer
+
+Gurgaon
+94604 46694
+
+Accomplished Full Stack Developer with 9 years of experience delivering high-impact web and mobile solutions that enhance efficiency and user engagement. Expertise in React.js, Next.js, and React Native drives the creation of high-performance single-page applications and reusable components, fostering productivity and design consistency. A proven ability to implement modern, scalable, and maintainable code ensures exceptional user experiences across diverse platforms. Committed to leveraging advanced technologies and innovative approaches to elevate development processes and outcomes.
+
+PERSONAL INFORMATION
+  Address: , Gurgaon, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * linkedin: https://www.linkedin.com/in/deepak-sankhyan-359857
+  * website: https://deepaksankhyan.com
+
+LANGUAGES
+
+SKILLS
+  React Native
+  React.js
+  Next.JS
+  JavaScript 
+  TypeScript
+  DevOps
+  Linux
+
+WORK EXPERIENCE
+  * August 2025 – Present
+    Freelance Full Stack AI Developer at , Gurgaon
+      
+  Developed and maintained scalable web applications using React.js, Next.js, and React Native. 
+  Pioneered development of a fullstack AI application utilizing multiple Large Language Models (LLMs) to generate insights on cloud instances.
+  Implemented robust DevOps practices to streamline deployment processes and enhance system reliability. 
+  Collaborated with cross-functional teams to define, design, and ship new features. 
+  Optimized application performance, ensuring fast load times and seamless user experiences. 
+
+
+  * February 2022 – August 2025
+    Tech Lead at Cognizant Technology Solutions, Gurgaon
+      
+  Developed robust single-page applications with React and Zustand, creating custom hooks for enhanced code reusability. 
+  Engineered sophisticated form management systems for complex user inputs with validation and state handling. 
+  Implemented fully responsive designs to ensure intuitive user experiences across all devices. 
+
+
+  * June 2019 – January 2022
+    Senior Engineer at NapinoAuto&ElectronicsLtd,Gurugram, Jaipur
+       
+
+  Engineered a robust, themeable styling architecture using CSS-in-JS (Styled Components/Emotion), establishing a consistent brand identity across the application.
+  Architected a responsive UI framework that ensures a native look and feel across iOS and Android devices.
+  Spearheaded development and maintenance of an in-house component library with over 40 reusable components, standardizing UI and reducing boilerplate code.
+  Collaborated with cross-functional teams to define and implement user-centric design solutions, enhancing overall user engagement.
+
+
+  * June 2018 – June 2019
+    Engineer at EneconSolarPowerLtd,Jaipur, 
+      
+  Developed a RESTful API that served as the backend for a web application, improving scalability and reducing latency by 50%
+
+
+  * February 2015 – May 2018
+    L1 Engineer at DigitalTelecomandSecuritySystem,Jaipur, 
+      
+  Implemented a service mesh to facilitate service discovery, routing, and secure communication between microservices.
+
+
+
+EDUCATION
+  * June 2015
+    GlobalCollegeofTechnology-Jaipur,RJ,  Bachelor of Technology in Information Technology
+
